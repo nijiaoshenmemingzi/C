@@ -1,10 +1,3 @@
-/*
-NIM: 18220014
-Nama : Pavita Andrea
-Tanggal : 9 November 2021
-Topik praktikum : stacklist dan queuelist
-Deskripsi : pra praktikum
-*/
 
 #include "boolean.h"
 #include <stdlib.h>
